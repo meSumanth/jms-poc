@@ -1,0 +1,15 @@
+
+target/classes/application.properties
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/com.jms.demo/jms-poc/pom.properties
+target/classes/META-INF/maven/com.jms.demo/jms-poc/pom.xml
+target/test-classes/com/jms/demo/jmspoc/JmsPocApplicationTests.class
+target/classes/com/jms/demo/receiver/Receiver.class
+target/classes/com/jms/demo/dto/EmailDTO.class
+target/classes/com/jms/demo/ClientController.class
+target/classes/com/jms/demo/Application.class
+.settings/org.eclipse.wst.common.project.facet.core.xml
+.settings/org.eclipse.m2e.core.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.core.resources.prefs
+.springBeans
