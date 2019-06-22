@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.jms.demo;
+package com.jms.demo.sender;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jms.core.JmsTemplate;

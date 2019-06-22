@@ -13,3 +13,4 @@ target/classes/com/jms/demo/Application.class
 .settings/org.eclipse.jdt.core.prefs
 .settings/org.eclipse.core.resources.prefs
 .springBeans
+target/classes/com/jms/demo/sender/ClientController.class
