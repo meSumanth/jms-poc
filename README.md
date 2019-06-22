@@ -1,2 +1,2 @@
 # jms-poc
-JMS poc using spring boot
+I'm too lazy to write document
